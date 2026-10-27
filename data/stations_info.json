@@ -1,5 +1,62 @@
 [
     {
+  "url": "https://nova.vcrauo.com",
+  "domain": "nova.vcrauo.com",
+  "name": "Orbelis",
+  "description": "Orbelis 是多模型 API 聚合平台，支持 OpenAI、Claude、Gemini、Grok、DeepSeek、Qwen、Kimi、GLM、Jev、Hy4、MiMo、MiniMax、Seedance、即梦等模型及图像、视频能力。提供 DeepSeek/GPT 0.05 倍率与免费 NVIDIA 模型，支持第三方模型检测。每日充值可参与最高 50U 抽奖，企业用户大额充值最高加赠 15%，加群可领取 10U 试用周卡。不同模型首字响应约 0.6-4 秒。",
+  "models": [
+    "gpt",
+    "claude",
+    "gemini",
+    "grok",
+    "deepseek",
+    "qwen",
+    "kemi",
+    "glm",
+    "domestic",
+    "image",
+    "video"
+  ],
+  "features": [
+    "multi",
+    "cheap",
+    "stable",
+    "enterprise",
+    "free"
+  ],
+  "price": "low",
+  "free_amount": "加群领10U试用周卡",
+  "score": 9.58,
+  "response_time": 2.3,
+  "alive": true,
+  "last_check": "2026-10-27",
+  "check_count": 1,
+  "display_tags": [
+    "多模型聚合",
+    "0.05倍率",
+    "10U试用周卡"
+  ],
+  "display_metrics": [
+    {
+      "label": "模型",
+      "value": "15类模型",
+      "cls": "green"
+    },
+    {
+      "label": "响应",
+      "value": "0.6-4s首字",
+      "cls": "accent"
+    },
+    {
+      "label": "企业",
+      "value": "最高加赠15%",
+      "cls": ""
+    }
+  ],
+  "likes": 0,
+  "added": "2026-10-27"
+}
+    {
         "url": "https://teamorouter.cn/?i=ad992e768a",
         "domain": "teamorouter.cn",
         "name": "TeamoRouter",
